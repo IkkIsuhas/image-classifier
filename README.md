@@ -44,7 +44,7 @@ streamlit run app.py
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/animal-classifier.git
+git clone https://github.com/IkkIsuhas/image-classifier
 cd animal-classifier
 ```
 
