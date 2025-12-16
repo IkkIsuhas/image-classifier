@@ -1,6 +1,6 @@
 # Animal Classifier - Streamlit App
 
-A web application that uses a trained ResNet18 model to classify animal images into 15 different categories.
+A AI streamlit application that uses a trained ResNet18 model to classify animal images into 15 different categories.
 
 ## Features
 
@@ -40,15 +40,19 @@ streamlit run app.py
 - PIL/Pillow
 - pandas
 
-##🤝 Contributions & Feedback
+## ⚙️ Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/animal-classifier.git
+cd animal-classifier
+```
+
+## 🤝 Contributions & Feedback
 
 I’m still learning and growing in Machine Learning and Deep Learning.
 If you notice any mistakes, improvements, or better ways to structure or optimize this project, I’d really appreciate your help.
-
 Feel free to open an issue for suggestions or feedback
-
 You’re welcome to submit a pull request to improve the code, model, or UI
-
 Any tips on best practices, performance, or design are always welcome
-
 This project is part of my learning journey, and constructive feedback will help me improve 🚀
